@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier', sans-serif;
+    background: #000;
+    color: rgb(98, 255, 129);
+}
+
+a {
+    text-decoration: none;
+    color: greenyellow;
+}
+
+toolbar {
+    border: 2px solid white;
+    border-radius: 5px;
+}
